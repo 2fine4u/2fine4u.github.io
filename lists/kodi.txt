@@ -1,27 +1,27 @@
 #EXTM3U
 
-#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 03-11-2016 11:20:13 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="cCloud" tvg-logo="http://i.imgur.com/yX8CKx3.png" group-title="Announcement",Welcome to cCloudTV.ORG (Updated 03-11-2016 11:20:13 EST-US) the future of IPTV. (Announcement) (US) (English)
+#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 03-11-2016 11:26:03 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="cCloud" tvg-logo="http://i.imgur.com/yX8CKx3.png" group-title="Announcement",Welcome to cCloudTV.ORG (Updated 03-11-2016 11:26:03 EST-US) the future of IPTV. (Announcement) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 #EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Top10",A&E (Top10) (US) (English)
-http://167.114.102.27/live/WM_h8MxHrGyStTSUclt33g/1457723794/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/0uDqBWH0qhdQQW1wIAbvKQ/1457724124/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0 tvg-name="AMC" tvg-language="English" tvg-country="US" tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png" group-title="Top10",AMC (Top10) (US) (English)
-http://167.114.102.27/live/eeUaydkX4l9imVcOs5oJOQ/1457723849/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/nKtc_Mx94kOBP0GacGJkdQ/1457724184/7c52ed5b8820b7dfd90b5a784bac64b3.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0 tvg-name="Cartoon Network" tvg-language="English" tvg-country="US" tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png" group-title="Top10",Cartoon Network (Top10) (US) (English)
-http://167.114.102.27/live/JkW4qgYJO_Rzpnn2ZkbLRA/1457723799/8be5e3f6156a6b2108a2d8b9cc5d5d7c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/6gHj2dzZOvK6QMvqO_Na0Q/1457724141/8be5e3f6156a6b2108a2d8b9cc5d5d7c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0 tvg-name="Comedy Central" tvg-language="English" tvg-country="US" tvg-id="Comedy Central" tvg-logo="http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif" group-title="Top10",Comedy Central (Top10) (US) (English)
-http://167.114.102.27/live/zbMbtsJZj06V3TP5cT2aww/1457723853/fa894851552e99b1cc146264a8ffaf4b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/yNBWGz55uioK3iNpogtUuA/1457724201/fa894851552e99b1cc146264a8ffaf4b.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0 tvg-name="Discovery Channel" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Top10",Discovery Channel (Top10) (US) (English)
-http://167.114.102.27/live/moVuR8XsnNG0hUUOMbsNRQ/1457723856/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/c-fG8IV_zfsGPajP3Kf8zA/1457724212/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0 tvg-name="ESPN" tvg-language="English" tvg-country="US" tvg-id="ESPN" tvg-logo="http://pacificrecords.com/Pacific_Records/prwp/wp-content/uploads/2015/06/espn-logo.jpg" group-title="Top10",ESPN (Top10) (US) (English)
-http://167.114.102.27/live/o-J4ZrVTYGpCFzgorkXdKQ/1457723805/7b0ef842a6a1233a8a86a8533063a1a1.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/ie8FZd2snVALDjqUBf3eYw/1457724171/7b0ef842a6a1233a8a86a8533063a1a1.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0 tvg-name="History" tvg-language="English" tvg-country="US" tvg-id="History" tvg-logo="http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png" group-title="Top10",History (Top10) (US) (English)
-http://167.114.102.27/live/JYXNqbmi8o1SqWOrrqO3pw/1457723807/d4a4950b7b7267417aa0b9733f30b6fe.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/Hf3GhhP7SKEfh3N3CsTgdA/1457724232/d4a4950b7b7267417aa0b9733f30b6fe.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0 tvg-name="National Geographic Channel" tvg-language="English" tvg-country="US" tvg-id="National Geographic Channel" tvg-logo="http://www.seat42f.com/wp-content/uploads/2013/02/NatGeo-Channel-Logo.jpg" group-title="Top10",National Geographic Channel (Top10) (US) (English)
-http://167.114.102.27/live/biUDs7BS0kUT5106URfgkQ/1457723809/e08dd4627a3cf468a30d8a357956d6f8.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/QYEomRmUlPrnin6ibl2vVA/1457724240/e08dd4627a3cf468a30d8a357956d6f8.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0 tvg-name="Nickelodeon" tvg-language="English" tvg-country="US" tvg-id="Nickelodeon" tvg-logo="http://www.nick.com/nick-assets/common/nick-logo-200x200.png" group-title="Top10",Nickelodeon (Top10) (US) (English)
-http://167.114.102.27/live/UaHI_5KHx7MZHI-UeWdu9Q/1457723864/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/UUzZuSBqUHN2dhTb7nPN8A/1457724250/b11cc9ad84502b27a63fa7a8d813ef6a.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0 tvg-name="The CW Network" tvg-language="English" tvg-country="US" tvg-id="The CW Network" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn%3AANd9GcQO4WEZsIKEfe7n7dyKqaIxF6FwyrhqPZtz0_2hG54zFWIY0YmB49TAOhA" group-title="Top10",The CW Network (Top10) (US) (English)
-http://167.114.102.27/live/wMKOkPj0ob0FMj6mhArDdQ/1457723813/d61960e75b1a90a23ebfb02f0bb46678.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+http://167.114.102.27/live/jlsRRcE92mxSFTsL5wZSLg/1457724205/d61960e75b1a90a23ebfb02f0bb46678.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
 #EXTINF:0 tvg-name="1 News" tvg-language="Malayalam" tvg-country="MY" tvg-id="1 News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIAzViSyPIMNWGpqbDxLflUkKMM5RxmOzScB3nuGAuU020XUDuzET6p6M" group-title="News",1 News (News) (MY) (Malayalam)
 http://d2krdsj5dv2ce5.cloudfront.net/ngrp:rtm-ch006_1080_all/playlist.m3u8
 #EXTINF:0 tvg-name="24 News" tvg-language="French" tvg-country="FR" tvg-id="24 News" tvg-logo="http://i.imgur.com/VvA12Zz.jpg" group-title="News",24 News (News) (FR) (French)
@@ -148,12 +148,16 @@ http://nlds7.cdnak.neulion.com/nlds/cbc/cbc_sd/as/live/cbc_sd_iphone.m3u8
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:0 tvg-name="CCTV Arabia" tvg-language="Arabic" tvg-country="CN" tvg-id="CCTV Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/CCTV-A.png/200px-CCTV-A.png" group-title="News",CCTV Arabia (News) (CN) (Arabic)
 http://38.99.146.36:7777/CCTVArabia_HD.m3u8
+#EXTINF:0 tvg-name="CCTV" tvg-language="English" tvg-country="US" tvg-id="CCTV" tvg-logo="http://cdn.cctv-america.com/wp-content/themes/cctv-america/img/cctv-logo-new-print.png" group-title="News",CCTV (News) (US) (English)
+http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 #EXTINF:0 tvg-name="CDN CANAL 37" tvg-language="Spanish" tvg-country="ES" tvg-id="CDN CANAL 37" tvg-logo="http://www.eltecsa.com/logos/logo_cdn.png" group-title="News",CDN CANAL 37 (News) (ES) (Spanish)
 http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
 #EXTINF:0 tvg-name="CEM Tv" tvg-language="Turkish" tvg-country="TR" tvg-id="CEM Tv" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqzOQy8bJS5MOcy5-IRrGHCo8STO6ekOf9StAri74uAZ8YrMTJm6MeOHw" group-title="News",CEM Tv (News) (TR) (Turkish)
 rtmp://stream.pivol.com/live/cemtv
 #EXTINF:0 tvg-name="CNBC" tvg-language="English" tvg-country="US" tvg-id="CNBC" tvg-logo="http://cdn.nerdwallet.com/travel/shops/atl/494.jpg" group-title="News",CNBC (News) (US) (English)
 http://cp.dmbshare.net:8000/live/tufan/tufan/3301.m3u8
+#EXTINF:0 tvg-name="CNN Int'l" tvg-language="English" tvg-country="UK" tvg-id="CNN Int'l" tvg-logo="http://rips.in/images/cnnint.gif" group-title="News",CNN Int'l (News) (UK) (English)
+http://edge1.everyon.tv/etv1sb/pld16/chunklist_w1504603228.m3u8
 #EXTINF:0 tvg-name="CNN Spanish" tvg-language="Spanish" tvg-country="US" tvg-id="CNN Spanish" tvg-logo="http://diveheart.org/wp-content/uploads/2015/08/cnn-espanol-logo1-320x240.jpg" group-title="News",CNN Spanish (News) (US) (Spanish)
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
 #EXTINF:0 tvg-name="CNN Turk" tvg-language="Turkish" tvg-country="TR" tvg-id="CNN Turk" tvg-logo="http://canlitvyayinakisi.com/wp-content/themes/point/kanal/CNN.jpg" group-title="News",CNN Turk (News) (TR) (Turkish)
@@ -172,6 +176,8 @@ http://live-edge01.telecentro.net.ar/live/26hd-480/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 #EXTINF:0 tvg-name="Canal 5 Linares" tvg-language="Spanish" tvg-country="CL" tvg-id="Canal 5 Linares" tvg-logo="http://www.lyngsat-logo.com/hires/cc/canal5_linares_cl.png" group-title="News",Canal 5 Linares (News) (CL) (Spanish)
 http://v1.streaminglatinoamerica.com:1935/canal5/canal5/live.m3u8
+#EXTINF:0 tvg-name="Canal 5 Sabinas" tvg-language="Spanish" tvg-country="MX" tvg-id="Canal 5 Sabinas" tvg-logo="http://i.imgur.com/GpiDAmw.png" group-title="News",Canal 5 Sabinas (News) (MX) (Spanish)
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
 #EXTINF:0 tvg-name="Canal Extremadura" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal Extremadura" tvg-logo="http://www.canalextremadura.es/sites/all/themes/cexma7/images/logotipo.jpg" group-title="News",Canal Extremadura (News) (ES) (Spanish)
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 #EXTINF:0 tvg-name="Canal Savoir" tvg-language="French" tvg-country="CA" tvg-id="Canal Savoir" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOPogGEmpB9lqB-LUkUzrQqk2ZMmUSxRgz2hs8KjbF5DxaWhxYbgjtiEo" group-title="News",Canal Savoir (News) (CA) (French)
@@ -1214,6 +1220,8 @@ http://91.121.222.160:1935/piublu/piublu.sdp/HasBahCa.m3u8
 https://video10-lax.streamup.com/app/telemundox2chivas_69s-stream_aac/playlist.m3u8
 #EXTINF:0 tvg-name="Telepavia" tvg-language="Italian" tvg-country="IT" tvg-id="Telepavia" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/TelePavia1.jpg" group-title="Entertainment",Telepavia (Entertainment) (IT) (Italian)
 http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+#EXTINF:0 tvg-name="Telesistema" tvg-language="Spanish" tvg-country="ES" tvg-id="Telesistema" tvg-logo="http://logopond.com/logos/c3966093ee94ae75a6f65778327bf70c.png" group-title="Entertainment",Telesistema (Entertainment) (ES) (Spanish)
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
 #EXTINF:0 tvg-name="Televicentro" tvg-language="Spanish" tvg-country="HN" tvg-id="Televicentro" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsMzKBG0EUUAxsUHWpuTSssgyNb6jcOu507cgUOL3SByY7Ww_PTHECT7o" group-title="Entertainment",Televicentro (Entertainment) (HN) (Spanish)
 http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
 #EXTINF:0 tvg-name="Television Champion" tvg-language="Mandarin" tvg-country="CH" tvg-id="Television Champion" tvg-logo="https://miqoazura.files.wordpress.com/2010/12/logo.gif" group-title="Entertainment",Television Champion (Entertainment) (CH) (Mandarin)
